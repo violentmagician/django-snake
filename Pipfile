@@ -9,6 +9,7 @@ black = "*"
 [packages]
 django = "*"
 channels = "*"
+channels-redis = "*"
 
 [requires]
 python_version = "3.7"
